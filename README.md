@@ -1,2 +1,13 @@
 # eslint-config-customize
-ESLint Config
+Customize ESLint Config
+
+# Install
+`npm install eslint-config-customize`
+
+# Usage
+
+```
+{
+  "extends": "customize"
+}
+```
